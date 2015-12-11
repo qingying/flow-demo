@@ -1,0 +1,35 @@
+{
+  "name": "flow-test",
+  "version": "0.1.0",
+  "description": "flow test",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "qingying",
+    "email": "qingying"
+  },
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.8.11",
+    "babel-preset-react": "*",
+    "babel-preset-es2015": "*",
+    "babel-plugin-transform-flow-strip-types": "*",
+    "gulp-babel": "*",
+    "flow-bin": "0.18.1",
+    "webpack": "~1.10.0",
+    "react": "0.14.3",
+    "react-dom": "0.14.3"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "react",
+    "test"
+  ],
+  "license": "MIT"
+}
