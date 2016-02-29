@@ -4,4 +4,4 @@ function simple(string){
     return string.length;
 }
 
-// simple(1); //error
+simple(1); //error
